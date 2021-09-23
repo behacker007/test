@@ -1,2 +1,2 @@
 # test
-ss
+这是一个readme
